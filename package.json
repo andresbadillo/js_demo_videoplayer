@@ -1,0 +1,26 @@
+{
+  "name": "js_demo_videoplayer",
+  "version": "1.0.0",
+  "description": "Demo Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresbadillo/js_demo_videoplayer.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Andres Badillo <r.andres.badillo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresbadillo/js_demo_videoplayer/issues"
+  },
+  "homepage": "https://github.com/andresbadillo/js_demo_videoplayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
